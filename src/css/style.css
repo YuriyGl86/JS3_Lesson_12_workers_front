@@ -1,0 +1,35 @@
+.conteiner {
+   border: 1px solid black;
+   width: 720px;
+   height: 350px;
+}
+
+.content-container {
+   width: 700px;
+   
+   border-radius: 5px;
+   padding-left: 10px;
+   padding-right: 10px;
+}
+
+.news-container {
+   width: 100%;
+   height: 70px;
+  
+   margin-bottom: 20px;
+}
+
+.load-news {
+   background-color: gray;
+}
+
+.hide {
+   display: none;
+}
+
+.unavalible {
+   width: 100%;
+   height: 100%;
+   text-align: center;
+   vertical-align: middle;
+}
